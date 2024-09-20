@@ -1,0 +1,1 @@
+Any()   --->Any method in collection that matches the given criteria,It returns a boolean value: true if at least one element meets the condition (or if the collection is not empty), and false otherwise.
